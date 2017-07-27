@@ -3,7 +3,10 @@
 I have written detailed installation procedure in one of my previous blog.
 Here i am giving that link as reference to follow step by step.
 
-https://install-gromacs.blogspot.in/
+
+click here to get installation procedure:
+                 https://install-gromacs.blogspot.in/
+
 
 The one can easily install gromacs parallel version by foolowing step by step procedure from above link.
 
@@ -41,14 +44,13 @@ now start installing gromacs by using procedure from above link.
 Cheers..!!!!!!!
 
 
-#================================================================================#
-#                                                                                #
-#                                  ANJI BABU KAPAKAYALA                          #
-#                       NDIAN INSTITUTION OF TECHNOLOGY, KANPUR.                 #
-#                                         INDIA.                                 #
-#                               (anjibabu480@gmail.com)                          #
-#                                                                                #
-#================================================================================#
+#============================================================================#
+#                                                                            #
+#           ANJI BABU KAPAKAYALA                                             #                          
+#            IIT KANPUR, INDIA .                                             #
+#         (anjibabu480@gmail.com)                                            #
+#                                                                            #
+#============================================================================#
 
 
 
