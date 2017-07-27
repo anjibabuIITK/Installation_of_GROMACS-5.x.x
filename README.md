@@ -4,7 +4,7 @@ I have written detailed installation procedure in one of my previous blog.
 Here i am giving that link as reference to follow step by step.
 
 
-click here to get installation procedur
+click here to get installation procedur : 
 https://install-gromacs.blogspot.in/
 
 
@@ -43,14 +43,13 @@ now start installing gromacs by using procedure from above link.
 
 Cheers..!!!!!!!
 
-
 ============================================================================
                                                                        
                         ANJI BABU KAPAKAYALA                                                                       
                          IIT KANPUR, INDIA .                                             
                        (anjibabu480@gmail.com)                                            
                                                                             
-#============================================================================
+============================================================================
 
 
 
