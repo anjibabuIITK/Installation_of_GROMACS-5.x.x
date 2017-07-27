@@ -5,7 +5,9 @@ Here i am giving that link as reference to follow step by step.
 
 
 click here to get installation procedur : 
-https://install-gromacs.blogspot.in/
+
+
+#  https://install-gromacs.blogspot.in/
 
 
 The one can easily install gromacs parallel version by foolowing step by step procedure from above link.
